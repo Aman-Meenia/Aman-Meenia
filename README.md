@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🏆 Achievements<br>Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode <br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in <br>• Biweekly Contest 128</p>
+<p align="left">🏆 Achievements<br>Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode <br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in Biweekly Contest 128</p>
 
 ###
 
