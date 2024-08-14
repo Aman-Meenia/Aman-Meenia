@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aman-Meenia/Aman-Meenia/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
