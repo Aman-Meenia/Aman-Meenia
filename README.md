@@ -1,57 +1,72 @@
-# Aman Meenia
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## 🎓 Education
-- **B.E. in Computer Science Engineering** | Government College of Engineering and Technology, Jammu (2020-2024)
-  - CGPA: 8.8
-- **Higher Secondary Education** | Shiksha Niketan Higher Secondary School, Jammu (2018-2020)
-  - CGPA: 9.0
+###
 
-## 🏆 Achievements
-- **Google Kickstart**: Secured global rank 696 in Round F
-- **LeetCode** ([@amanmeenia0001](https://leetcode.com/amanmeenia0001/))
-  - Contest Rating: 2063 (Top 2.37%)
-  - Solved 1600+ problems
-  - Global rank 250 in Biweekly Contest 128
-- **CodeChef** ([@aman_meenia](https://www.codechef.com/users/aman_meenia))
-  - 3 star | Maximum Rating: 1606
-- **GeeksforGeeks** ([@meenia09876](https://auth.geeksforgeeks.org/user/meenia09876))
-  - Solved 230+ problems
+<p align="left">My name is Aman Meenia. I have completed a Bachelor's degree in Computer Science Engineering from the Government College of Engineering and Technology in Jammu, with a CGPA of 8.5.</p>
 
-## 💻 Technical Skills
-- **Programming Languages**: C++, JavaScript, TypeScript, C, Java
-- **Web Technologies**: ReactJS, NextJS, ExpressJS, NodeJS, Redux, MongoDB
-- **Tools and Concepts**: DSA, OOPS, WebSocket, Redis, Kafka, Git, Docker
+###
 
-## 🚀 Projects
+<p align="left">🏆 Achievements<br>Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode amanmeenia0001<br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in <br>• Biweekly Contest 128</p>
 
-### Bookify
-[GitHub](https://github.com/yourusername/bookify) | [Live Demo](https://your-bookify-demo-link.com)
+###
 
-An online Book Store built with ReactJS and Node.js/Express.
-- JWT authentication and MongoDB for secure user access and data storage
-- Integrated ContextAPI and Razorpay for streamlined payment processing
-- Admin functions: adding/updating book details and tracking sales
-- User features: viewing order history and canceling orders
+<h2 align="left">I code with</h2>
 
-### ChatSphere
-[GitHub](https://github.com/yourusername/chatsphere) | [Live Demo](https://your-chatsphere-demo-link.com)
+###
 
-A real-time chat application using the MERN stack.
-- Implemented WebSocket for real-time communication
-- Integrated Redis Pub/Sub for scalability
-- Utilized JWT for authentication and Redux for state management
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+</div>
 
-## 💼 Experience
+###
 
-**Software Engineer Intern** - AviSoft (Feb 2024 - Present)
-- Migrated a client website from AngularJS to Next.js, enhancing performance and SEO
-- Utilized DaisyUI library for efficient and responsive UI component design and styling
-- Optimized application performance by implementing server-side rendering with Next.js
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@AmanMeenia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/meenia_aman" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: your.email@example.com
+###
 
----
+<img src="https://raw.githubusercontent.com/Aman-Meenia/Aman-Meenia/output/snake.svg" alt="Snake animation" />
 
-⭐️ From [AmanMeenia](https://github.com/AmanMeenia)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Meenia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman-Meenia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Aman-Meenia/count.svg?"  />
+</div>
+
+###
