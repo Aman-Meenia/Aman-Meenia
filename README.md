@@ -10,6 +10,14 @@
 
 ###
 
+<h3> Projects</h3>
+<h4> Logiclab </h4>  <link> https://logic-lab.work.gd </link>
+<p> • Built a full-stack platform for solving DSA problems using Typescript, NextJS, MongoDB, Redis, and Judge0 for real-time code execution. </p> 
+<p> • Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment. </p>
+<p> • Deployed on AWS with Nginx as a reverse proxy to improve performance and security.</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
