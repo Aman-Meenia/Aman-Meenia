@@ -9,7 +9,7 @@
 <p align="left">🏆 Achievements<br>Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode <br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in Biweekly Contest 128</p>
 
 ###
-<h1>Projects </h1>
+<h3>Projects </h3>
 <p align="left">  <br>Logiclab | <a href="https://logic-lab.work.gd">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</p>
 
 <p align="left">Bookify <br>• Built a full-stack online bookstore using ReactJS, NodeJS/Express, and MongoDB, incorporating JWT authentication for secure user access.<br>• Integrated ContextAPI for state management and Razorpay for payment processing.</p>
