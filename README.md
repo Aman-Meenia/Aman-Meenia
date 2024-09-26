@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">  <br>Logiclab | <a href="https://logic-lab.work.gd">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</p>
+<div align="left">  <br>Logiclab | <a href="https://logic-lab.work.gd">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</div>
 
 <p align="left">Bookify <br>• Built a full-stack online bookstore using ReactJS, NodeJS/Express, and MongoDB, incorporating JWT authentication for secure user access.<br>• Integrated ContextAPI for state management and Razorpay for payment processing.</p>
 <p align="left">ChatSphere <br>• Developed a full-stack, real-time chat application using NextJS, PostgreSQL, NextAuth, and Prisma.<br>• Implemented WebSocket for instant messaging, integrated Redis Pub/Sub for scalability.</p>
