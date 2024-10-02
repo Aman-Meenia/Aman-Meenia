@@ -6,9 +6,6 @@
 
 ###
 
-<h2 align="left">🏆 Achievements </h2>
-<p align="left"> Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode <br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in Biweekly Contest 128</p>
-
 <h2 align="left"> Experience</h2>
 
 <p align="left">AviSoft | Full Stack Developer Intern<br>
@@ -26,6 +23,8 @@ Tech Stack: Next.js, AngularJS, DaisyUI, MERN Stack, TypeScript<br>
 
 <p align="left">ChatSphere <br>• Developed a full-stack, real-time chat application using NextJS, PostgreSQL, NextAuth, and Prisma.<br>• Implemented WebSocket for instant messaging, integrated Redis Pub/Sub for scalability.</p>
 
+<h2 align="left">🏆 Achievements </h2>
+<p align="left"> Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode <br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in Biweekly Contest 128</p>
 
 <h2 align="left">I code with</h2>
 
