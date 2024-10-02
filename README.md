@@ -8,9 +8,18 @@
 
 <p align="left">🏆 Achievements<br>Google | Secured global rank 696 in google kickStart (round F)<br>Leetcode <br>• Contest Rating: 2063(Top 2.37%)<br>• Solved more than 1600 problems<br>• Secured global rank 250 in Biweekly Contest 128</p>
 
+<h2 align="left"> Experience</h2>
+
+<p align="left">AviSoft | Full Stack Developer Intern<br>
+Feb 2024 - July 2024<br>
+Tech Stack: Next.js, AngularJS, DaisyUI, MERN Stack, TypeScript<br>
+• Migration Project: Successfully migrated a client website from AngularJS to Next.js, significantly improving performance and SEO rankings.<br>
+• UI Design: Leveraged the DaisyUI library for efficient, responsive, and modern UI component design, enhancing the user experience.<br>
+• Performance Optimization: Implemented server-side rendering with Next.js to optimize loading speeds and boost overall application performance.</p>
+
 <h2 align="left">Projects</h2>
 
-<p align="left">Logiclab | <a href="https://logic-lab.work.gd">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</p>
+c
 
 <p align="left">Bookify | <a href="https://youtu.be/QczbMU5eWbA">bookify.com </a> <br>• Built a full-stack online bookstore using ReactJS, NodeJS/Express, and MongoDB, incorporating JWT authentication for secure user access.<br>• Integrated ContextAPI for state management and Razorpay for payment processing.</p>
 
