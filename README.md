@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aman Meenia. I have completed a Bachelor's degree in Computer Science Engineering from the Government College of Engineering and Technology in Jammu, with a CGPA of 8.5.</p>
+<p align="left">My name is Aman Meenia. I have completed a Bachelor's degree in Computer Science Engineering from the Government College of Engineering and Technology Jammu, with a CGPA of 8.5.</p>
 
 ###
 
