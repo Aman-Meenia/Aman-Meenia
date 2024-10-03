@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?  <a href="https://aman-com.vercel.app">Portfolio</a></h1>
+<h1 align="left">Hey 👋 What's up? </h1>
 
 ###
 
@@ -15,7 +15,7 @@ Tech Stack: Next.js, AngularJS, DaisyUI, MERN Stack, TypeScript<br>
 • UI Design: Leveraged the DaisyUI library for efficient, responsive, and modern UI component design, enhancing the user experience.<br>
 • Performance Optimization: Implemented server-side rendering with Next.js to optimize loading speeds and boost overall application performance.</p>
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Projects ( <a href="https://aman-com.vercel.app">Portfolio</a>)</h2>
 
 <p align="left">Logiclab | <a href="https://logic-lab.work.gd">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</p>
 
