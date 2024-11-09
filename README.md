@@ -8,12 +8,20 @@
 
 <h2 align="left"> Experience</h2>
 
+<p align="left">Sportzbook | Software Developer Intern<br>
+Oct 2024 - Present<br>
+Tech Stack: TypeScript, Next.js, React.js, ReactNative, Nodejs<br>
+• Developed the company's web platform using React.js, ensuring a responsive, high-performance interface that provides an intuitive and seamless user experience.<br>
+• Collaborating with the team to build the mobile app using React Native, focusing on delivering a seamless mobile experience.<br>
+
 <p align="left">AviSoft | Full Stack Developer Intern<br>
 Feb 2024 - July 2024<br>
 Tech Stack: Next.js, AngularJS, DaisyUI, MERN Stack, TypeScript<br>
 • Migration Project: Successfully migrated a client website from AngularJS to Next.js, significantly improving performance and SEO rankings.<br>
 • UI Design: Leveraged the DaisyUI library for efficient, responsive, and modern UI component design, enhancing the user experience.<br>
 • Performance Optimization: Implemented server-side rendering with Next.js to optimize loading speeds and boost overall application performance.</p>
+
+
 
 <h2 align="left">Projects ( <a href="https://aman-com.vercel.app">Portfolio</a> )</h2>
 
