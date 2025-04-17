@@ -25,7 +25,7 @@ Tech Stack: Next.js, AngularJS, DaisyUI, MERN Stack, TypeScript<br>
 
 <h2 align="left">Projects ( <a href="https://www.amanmeenia.com">Portfolio</a> )</h2>
 
-<p align="left">Logiclab | <a href="https://logic-lab.work.gd">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</p>
+<p align="left">Logiclab | <a href="https://logiclab.amanmeenia.com">logic-lab.work.gd</a><br>• Built a full-stack platform for solving DSA problems using TypeScript, Next.js, MongoDB, Redis, and Judge0 for real-time code execution.<br>• Integrated user authentication with Next-Auth and containerized the application using Docker for easy deployment.<br>• Deployed on AWS with Nginx as a reverse proxy to enhance performance and security.</p>
 
 <p align="left">Bookify | <a href="https://youtu.be/QczbMU5eWbA">bookify.com </a> <br>• Built a full-stack online bookstore using ReactJS, NodeJS/Express, and MongoDB, incorporating JWT authentication for secure user access.<br>• Integrated ContextAPI for state management and Razorpay for payment processing.</p>
 
